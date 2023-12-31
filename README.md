@@ -252,6 +252,7 @@ inside the form, create a form group for the name input field. Add the requred a
 Add a submit button for the form.
 
 ## CODE: 10(c)
+```
 <!DOCTYPE html>
 <form>
 <div class="form-group">
@@ -311,6 +312,7 @@ You must agree to terms and conditions before submitting...
 </div>
 </div>
 <button type="button" class="btn btn-success"> Submit </button>
+```
 
 ## OUTPUT:
 ![Screenshot 2023-12-31 193748](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/b12ed0b8-55f5-4afb-8ddd-6c6510191426)
