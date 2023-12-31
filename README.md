@@ -10,22 +10,22 @@ Create a Responsive feedback form for a virtual workshop on Constructing Modern 
 
 ## DESIGN STEPS: 10(a)
 
-`Step 1:
+## Step 1:
 
 Initialize the HTML document
 
-`Step 2:
+## Step 2:
 
 Create the body structure
 
-`Step 3:
+## Step 3:
 
 Construct the form
 
-`Step 4:
+## Step 4:
 Add a submit button and Link Bootstrap JavaScript.
 
-`CODE: 10(a)
+## CODE: 10(a)
 <html>
   <head>
     <title> Feedback Form | Virtual Workshop on Constructing Modern Websites</title>
@@ -104,41 +104,43 @@ Add a submit button and Link Bootstrap JavaScript.
   </div>
 </body>
 </html>
-`OUTPUT:
+
+## OUTPUT:
+
 ![Screenshot 2023-12-31 193658](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/d9391850-cd36-48c3-914a-f0b4a3bf05d5)
 
-`RESULT:
+## RESULT:
 
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
 
-`Ex-10(b)
+## Ex-10(b)
 
-`AIM
+## AIM
 
 Create a Responsive student registration form for ABC Engineering College built with Bootstrap.
 
-`DESIGN STEPS: 10(b)
+## DESIGN STEPS: 10(b)
 
-`Step 1:
+## Step 1:
 
 Initialize the HTML document with the necessary Bootstrap links.
 
-`Step 2:
+## Step 2:
 
 Create a container for the form and add a heading
 
-`Step 3:
+## Step 3:
 Inside the form, create form groups for the student's name, email, and course.
 
-`Step 4:
+## Step 4:
 
 Add a submit button for the form.
 
-`Step 5:
+## Step 5:
 
 Link the Bootstrap JavaScript file at the end of the body.
 
-` CODE: 10(b)
+## CODE: 10(b)
 > <html>
   <head>
     <title> Student Registration Form | ABC Engineering College </title>
@@ -218,37 +220,38 @@ Link the Bootstrap JavaScript file at the end of the body.
   </div>
 </body>
 </html>
-`OUTPUT:
+
+## OUTPUT:
 ![Screenshot 2023-12-31 194033](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/3df8aedf-c015-453c-81d0-f1cc9897d3e9)
 
-`RESULT:
+## RESULT:
 This code creates a llesponsive student registration form for ABC Engineering College built with Bootstrap.
 
-`Ex-10(c)
+## Ex-10(c)
 
-`AIM
+## AIM
 
 Develop a program to structure vertical form layouts which handle form validition in bootstrap.
 
-`DESIGN STEPS: 10(c)
+## DESIGN STEPS: 10(c)
 
-`Step 1:
+## Step 1:
 
 Initialize the HTML document with the necessary Bootstrap links.
 
-`Step 2:
+## Step 2:
 
 Create a container for the form and add a heading.
 
-`Step 3:
+## Step 3:
 
 inside the form, create a form group for the name input field. Add the requred attribute to the input field for validation.
 
-`Step 4:
+## Step 4:
 
 Add a submit button for the form.
 
-`CODE: 10(c)
+## CODE: 10(c)
 <form>
     <div class="form-group">
     <div class="col-md-6">
@@ -305,41 +308,42 @@ Add a submit button for the form.
                 </div>
           </div>
     <button type="button" class="btn btn-success"> Submit </button>
-`OUTPUT:
+      
+## OUTPUT:
 ![Screenshot 2023-12-31 193748](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/b12ed0b8-55f5-4afb-8ddd-6c6510191426)
 
-`RESULT:  
+## RESULT:  
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap
 
-`Ex-10(d)
+## Ex-10(d)
 
-`AIM:
+## AIM:
 
 Create a basic email login form in Bootstrap with validation function
 
-`DESIGN STEPS: 10(d)
+## DESIGN STEPS: 10(d)
 
-`Step 1:
+## Step 1:
 
 Initialize the HTML document with the necessary Bootstrap links.
 
-`Step 2:
+## Step 2:
 
 Create a container for the form and add a heading
 
-`Step 3:
+## Step 3:
 
 Inside the form, create a form group for the email input field. Add the required attribute to the input field for validation
 
-`Step 4:
+## Step 4:
 
 Add a submit button for the form
 
-`Step 5:
+## Step 5:
 
 Add a script to handle the form validation on submit.
 
-`Code
+## Code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -394,9 +398,11 @@ Add a script to handle the form validation on submit.
 
 </body>
 </html>
-`OUTPUT:
+
+## OUTPUT:
 ![Screenshot 2023-12-31 194431](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/b9591ea1-6e2e-41e4-acc4-679166559f03)
-`RESULT:
+
+## RESULT:
  This code is creates a basic email login from in bootstrip with validation function.
 
 
