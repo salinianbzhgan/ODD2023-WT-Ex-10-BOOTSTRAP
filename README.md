@@ -288,7 +288,9 @@ Add a submit button for the form
 Add a script to handle the form validation on submit.
 
 ## Code
+Sure, here's a simple example of an email login form using Bootstrap with validation:
 
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -343,6 +345,9 @@ Add a script to handle the form validation on submit.
 
 </body>
 </html>
+
+
+This form uses Bootstrap classes for styling and includes basic validation for the email field. The form won't submit if the email field is empty or contains an invalid email format. You can further enhance this with backend validation for the login process.
 
 ## OUTPUT:
 ![Screenshot 2023-12-31 194431](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/b9591ea1-6e2e-41e4-acc4-679166559f03)
