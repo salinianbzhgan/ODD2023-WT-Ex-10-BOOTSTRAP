@@ -404,8 +404,6 @@ Add a script to handle the form validation on submit.
 </body>
 </html>
 ```
-
-
 ## OUTPUT:
 ![Screenshot 2023-12-31 194431](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/b9591ea1-6e2e-41e4-acc4-679166559f03)
 
