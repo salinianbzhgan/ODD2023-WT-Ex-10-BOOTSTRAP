@@ -352,7 +352,7 @@ Add a script to handle the form validation on submit.
 <head>
   <meta charset="UTF-8">
   <title>Email Login Form</title>
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" herf="style.css">
 </head>
 <body>
 
@@ -379,7 +379,7 @@ Add a script to handle the form validation on submit.
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
 <script>
-  // Example validation using Bootstrap's built-in form validation
+  
   (function () {
     'use strict'
 
