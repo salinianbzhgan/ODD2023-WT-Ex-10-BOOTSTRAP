@@ -349,6 +349,7 @@ Add a submit button for the form
 Add a script to handle the form validation on submit.
 
 ## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -403,7 +404,7 @@ Add a script to handle the form validation on submit.
 
 </body>
 </html>
-
+```
 
 
 ## OUTPUT:
