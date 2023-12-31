@@ -252,63 +252,7 @@ inside the form, create a form group for the name input field. Add the requred a
 Add a submit button for the form.
 
 ## CODE: 10(c)
-<form>
-    <div class="form-group">
-    <div class="col-md-6">
-                <label for="valid01" class="form-label">Username</label>
-                <input type="text" class="form-control" id="valid01" required>
-               <div class="invalid-feedback">
-                     Please provide a valid Username.
-                </div>
-          </div>
-    <div class="col-md-3">
-                <label for="valid02" class="form-label">Password</label>
-                <input type="text" class="form-control" id="valid02" required>
-               <div class="invalid-feedback">
-                     Please provide a valid Password.
-                </div>
-          </div>
-    <div class="col-md-3">
-                <label for="valid03" class="form-label">Department</label>
-                <select class="form-select" id="valid04" required>
-                      <option>Choose anyone Department</option>
-                      <option>AIML</option>
-                      <option>AIDS</option>
-                      <option>IOT</option>
-                </select>
-                <div class="invalid-feedback">
-                      Please select a valid Department.
-                </div>
-          </div>
-    <div class="col-md-9">
-                <label for="valid04" class="form-label">Mobile Number</label>
-                <input type="text" class="form-control" id="valid04" required>
-    <div class="valid-feedback">
-                      Entered Details are correct.
-                </div>
-          </div>
-    <div class="col-md-9">
-                <label for="valid05" class="form-label">Designation</label>
-                <input type="text" class="form-control" id="valid05" required>
-    <div class="valid-feedback">
-                      Entered Details are correct.
-                </div>
-          </div>
-    <div class="col-md-9">
-                <label for="valid06" class="form-label">E-Mail ID</label>
-                <input type="text" class="form-control" id="valid06" required>
-    <div class="valid-feedback"> Entered Details are correct.
-                </div>
-          </div>
-    <div class="col-md-3">
-                <label for="valid07" class="form-label">Term & Conditions </label>
-                <input type="checkbox" class="form-control" id="valid07" required>
-    <div class="invalid-feedback">
-                      You must agree to terms and conditions before submitting...
-                </div>
-          </div>
-    <button type="button" class="btn btn-success"> Submit </button>
-      
+
 ## OUTPUT:
 ![Screenshot 2023-12-31 193748](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/b12ed0b8-55f5-4afb-8ddd-6c6510191426)
 
@@ -344,6 +288,7 @@ Add a submit button for the form
 Add a script to handle the form validation on submit.
 
 ## Code
+'''
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -398,7 +343,7 @@ Add a script to handle the form validation on submit.
 
 </body>
 </html>
-
+'''
 ## OUTPUT:
 ![Screenshot 2023-12-31 194431](https://github.com/salinianbzhgan/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742862/b9591ea1-6e2e-41e4-acc4-679166559f03)
 
